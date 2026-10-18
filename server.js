@@ -8,8 +8,8 @@ const server = http.createServer((req, res) => {
     });
 
     res.end(`
-        <h1>CodeAlpha Docker Web Server</h1>
-        <p>Task 4 - Web Server using Docker</p>
+        <h1>Docker Web Server</h1>
+        <p>A simple web server running in Docker.</p>
         <p>Status: Running</p>
     `);
 });

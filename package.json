@@ -1,5 +1,5 @@
 {
-  "name": "codealpha_docker_webserver",
+  "name": "docker-webserver",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
